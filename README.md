@@ -1,12 +1,11 @@
 # Vaga desenvolvedor Front End iTFLEX Tecnologia
 
-Esta é uma oportunidade para uma vaga de desenvolvedor Front End, que irá atuar
-na especificação, design e desenvolvimento de uma interface de administração
-e geração de relatórios de servidores de telefonia IP, firewall e email.
+Nós trabalhamos com softwares de gerenciamento de infra-estrutura, com foco em firewalls e servidores de telefonia (PABX). A área de atuação da vaga é para o desenvolvimento das interfaces web do nosso produto, como dashboards, relatórios, gráficos e gerenciamento de serviços.
 
 Trabalho presencial em Joinville / SC
 
-Perfil:
+### Perfil
+
 - Gostar muito desenvolvimento de software e tecnologia
 - Ser participativo na construção do produto, contribuindo com ideias para o negócio
 - Ser dinâmico e inquieto, questionando dogmas e premissas, sempre procurando inovação
@@ -17,7 +16,8 @@ Perfil:
 - Ter profunda preocupação com qualidade e performance
 - Compreender a importância e praticar versionamento de código
 
-Requisitos:
+### Requisitos
+
 - Curso superior em Sistemas de Informação, Ciências da Computação ou Engenharia da computação
   - Curso superior em andamento para se candidatar a Analista de Desevolvimento Júnior
   - Curso superior concluído: requisito mínimo para se canditar a Analista de Desenvolvimento Pleno
@@ -27,7 +27,8 @@ Requisitos:
 - Entender o funcionamento do protocolo HTTP
 - Desenvolvimento de aplicações javascript consultando APIs REST
 
-Diferenciais:
+### Diferenciais
+
 - Conhecimentos de UX
 - Conhecimentos de Web Design (utilizando Material Design)
 - Conhecimento de ferramentas de criação de protótipos
@@ -53,7 +54,7 @@ A vaga é CLT, oferece as seguintes vantagens:
 
 Empresa com 13 anos de mercado, já implantou mais de 1000 projetos com servidores Linux. Contato com novas tecnologias, oferece possibilidade de crescimento profissional. Empresa localizada em Joinville, a maior cidade de Santa Catarina (500 mil habitantes), próximo a diversas praias (até 100Km), e também a capital Florianópolis (180Km) e a capital do Paraná, Curitiba (130Km).
 
-# Vaga
+# Como se candidatar
 
 Para se candidatar a vaga, deve ser respondido [este questionário](https://goo.gl/forms/xLrFI37TC4aRnMpj1), realizar o desafio abaixo e enviar seu [currículo por meio deste link](https://www.itflex.com.br/vaga/desenvolvedor-front-end/), lembrando que deve ser enviado o link do repositório com a resolução do desafio na descrição.
 
