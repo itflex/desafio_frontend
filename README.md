@@ -51,11 +51,11 @@ A vaga é CLT, oferece as seguintes vantagens:
 
 # Sobre a empresa
 
-Empresa com 11 anos de mercado, já implantou mais de 800 servidores Linux. Contato com novas tecnologias, oferece possibilidade de crescimento profissional. Empresa localizada em Joinville, a maior cidade de Santa Catarina (500 mil habitantes), próximo a diversas praias (até 100Km), e também a capital Florianópolis (180Km) e a capital do Paraná, Curitiba (130Km).
+Empresa com 13 anos de mercado, já implantou mais de 1000 projetos com servidores Linux. Contato com novas tecnologias, oferece possibilidade de crescimento profissional. Empresa localizada em Joinville, a maior cidade de Santa Catarina (500 mil habitantes), próximo a diversas praias (até 100Km), e também a capital Florianópolis (180Km) e a capital do Paraná, Curitiba (130Km).
 
 # Vaga
 
-Para se candidatar a vaga, deve ser respondido [este questionário](https://goo.gl/forms/xLrFI37TC4aRnMpj1), realizar o desafio abaixo e enviar seu [currículo por meio deste link](https://www.itflex.com.br/trabalhe), lembrando que deve ser enviado o link do repositório com a resolução do desafio na descrição.
+Para se candidatar a vaga, deve ser respondido [este questionário](https://goo.gl/forms/xLrFI37TC4aRnMpj1), realizar o desafio abaixo e enviar seu [currículo por meio deste link](https://www.itflex.com.br/vaga/desenvolvedor-front-end/), lembrando que deve ser enviado o link do repositório com a resolução do desafio na descrição.
 
 ## Desafio
 
