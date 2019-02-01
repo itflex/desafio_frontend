@@ -34,7 +34,6 @@ Diferenciais:
 - Conhecimento de ferramentas de edição de imagens
 - Experiência com frameworks SPA (single page applications)
 - Já ter utilizado/estar utilizando o framework VueJS
-- Experiência com Task runners (grunt ou gulp)
 - Experiência em utilização do Git
 - Experiência com métodologias ágeis
 - Conhecimento de ferramentas de TDD de javascript (Jasmine, Mocha, etc)
